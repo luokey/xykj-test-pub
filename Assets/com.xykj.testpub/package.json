@@ -1,0 +1,29 @@
+{
+  "name": "com.xykj.testpub",
+  "version": "0.0.1",
+  "unity": "2022.2",
+  "displayName": "xykj testpub",
+  "description": "xykj testpub code",
+  "author":{
+	"name": "lukey",
+	"email": "",
+	"url": ""
+  },
+  "keywords": [
+    "xykj.testpub"
+  ],
+  "dependencies": {
+    
+  },
+  "relatedPackages": {
+    
+  },
+  "samples": [
+    
+  ],
+  "_upm": {
+    "changelog": "init."
+  },
+  "documentationUrl": "",
+  
+}
